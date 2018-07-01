@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Quickstart
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ALI
+Implementation-Vendor-Id: com.generic.springbootquickstart
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/generic-project
+Created-By: Maven Integration for Eclipse
+
